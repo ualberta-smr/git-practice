@@ -6,7 +6,7 @@ This repo is meant to be forked by students for a simple git basics exercise.
 
 1. Fork this repo by clicking on the fork button at the top right corner.
 
-2. Clone this repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo
+2. Clone this repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo. Make sure to get the address of YOUR FORK, not this repo (such that you have acccess rights to push to it).
 
 3. Add any file in the cloned folder. Let's say `hello.py` and add any code to it.
 
