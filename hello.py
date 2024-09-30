@@ -1,3 +1,3 @@
 int x = 19;
-x = x + 18;
+x = y + 18;
 print("Hello world ", x);
