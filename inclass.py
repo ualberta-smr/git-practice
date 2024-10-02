@@ -1,1 +1,1 @@
-print("Hello class")
+print("Hello class simple changes")
